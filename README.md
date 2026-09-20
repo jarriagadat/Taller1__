@@ -13,7 +13,7 @@ El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Ne
 
 ## 🛠️ Cómo ejecutar
 Para ejecutar el proyecto, asegúrate de tener Python 3.10+ y los siguientes paquetes instalados:
-pip install pyomo pandas numpy highs
+pip install pyomo pandas numpy highs networkx
 
 Instrucciones de Ejecución
 Opción 1: Ejecutar el Cuaderno Jupyter (Recomendado)
