@@ -12,6 +12,9 @@ El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Ne
 
 <img width="1388" height="776" alt="image" src="Diagrama de Red - Canvas_white_v02.png" /> (Fuente: Elaboración propia/)
 
+<img width="982" height="926" alt="image" src="red_flujos_mineria.png" /> (Fuente: Elaboración propia/)
+
+
 ## 🛠️ Cómo ejecutar
 Para ejecutar el proyecto, asegúrate de tener Python 3.10+ y los siguientes paquetes instalados:
 pip install pyomo pandas numpy highs networkx
