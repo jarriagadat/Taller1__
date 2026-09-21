@@ -12,7 +12,7 @@ El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Ne
 
 <img width="1388" height="776" alt="image" src="Diagrama de Red - Canvas_white_v02.png" /> (Fuente: Elaboración propia)
 
-<img width="600" height="600" alt="image" src="red_flujos_mineria.png" /> \n(Fuente: Elaboración propia)
+<img width="600" height="600" alt="image" src="red_flujos_mineria.png" /> (Fuente: Elaboración propia)
 
 
 ## 🛠️ Cómo ejecutar
