@@ -8,7 +8,8 @@ Profesor: Schulze, E.
 
 Este repositorio contiene la solución para el problema de optimización de la red de logística minera. El objetivo principal es determinar el plan de despacho mensual de mínimo costo desde las faenas concentradoras hasta los puertos de exportación, transitando por acopios intermedios.
 
-El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Network Flow) implementado en Pyomo y resuelto mediante HiGHS.
+El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Network Flow) implementado en Pyomo y resuelto mediante HiGHS./
+
 <img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/cacd7237-43f0-47fb-8fe7-628d5a428bf4" /> (Fuente: Elaboración propia/)
 
 ## 🛠️ Cómo ejecutar
