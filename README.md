@@ -10,7 +10,7 @@ Este repositorio contiene la solución para el problema de optimización de la r
 
 El modelo está formulado como un Problema de Flujo a Costo Mínimo (Min-Cost Network Flow) implementado en Pyomo y resuelto mediante HiGHS./
 
-<img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/cacd7237-43f0-47fb-8fe7-628d5a428bf4" /> (Fuente: Elaboración propia/)
+<img width="700" height="394" alt="image" src="Diagrama de Red - Canvas_white_v02.png" /> (Fuente: Elaboración propia/)
 
 ## 🛠️ Cómo ejecutar
 Para ejecutar el proyecto, asegúrate de tener Python 3.10+ y los siguientes paquetes instalados:
